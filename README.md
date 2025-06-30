@@ -1,4 +1,4 @@
-# FECP5-1005-Lab01
+#General Malit
 
 ### Celsius to Fahrenheit Converter
 
