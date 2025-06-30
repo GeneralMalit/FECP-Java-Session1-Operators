@@ -1,4 +1,4 @@
-#General Malit
+# General Malit
 
 ### Celsius to Fahrenheit Converter
 
